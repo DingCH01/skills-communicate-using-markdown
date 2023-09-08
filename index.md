@@ -1,3 +1,3 @@
-```java
-String s = "Hello World!";
-```
+- [x] Turn on my GitHub
+- [ ] Outline my portfolio
+- [x] Introduce myself to others
